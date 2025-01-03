@@ -33,4 +33,5 @@ class NhanVien:
         
 NhanVienA = NhanVien(1, "ABCDE", 1000, 4)
 
+
 print("lương NV:" + str(NhanVienA.tinh_luong()))
