@@ -41,3 +41,5 @@ class GiamDoc(NhanVien):
 
 GiamDocA = GiamDoc(5, "Phạm Hồng Khôi5", 40000, "manager", 10, 30000, [])
 print("Lương giám đốc: $" + str(GiamDocA.tinhLuong()))
+
+# 2:02:46
